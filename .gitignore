@@ -1,5 +1,5 @@
 #ignore twitter_key file
-twitter_key.ipynb
+config.py
 
 #ignore the ipynb_checkpoints/folder
 .ipynb_checkpoints/

@@ -1,2 +1,5 @@
 #ignore twitter_key file
 twitter_key.ipynb
+
+#ignore the ipynb_checkpoints/folder
+.ipynb_checkpoints/
